@@ -3,14 +3,33 @@
 ## Application mobile pour la classification des invertébrés marins a partir des photos
 
 Projet devellopé dans le cadre de l'ue projet inf4258 année 2024-2025
-## Auteur 
-- Noubissi Fopa christian junior
-- essuthi mbangue ange armel
+
+## Auteurs 
+- NOUBISSI FOPA CHRISTIAN JUNIOR
+- ESSUTHI MBANGUE ANGE ARMEL
+
+
 
 ## Superviseur 
 Prof tsopze nobert
 
 ---
+
+---
+
+## 👤 Contribution – ESSUTHI MBANGUE ANGE ARMEL
+
+Dans ce projet de classification des invertébrés marins, ma contribution a porté principalement sur :
+
+- L’analyse et la compréhension des données utilisées pour l’entraînement
+- La participation à la gestion et au suivi du projet
+- Le contrôle global de l’application (web et mobile)
+- Les tests fonctionnels et techniques
+- L’identification des anomalies et la correction des bugs
+- La validation des résultats et des performances du système
+
+Cette contribution a permis d’améliorer la stabilité, la fiabilité et la qualité globale de l’application.
+
 
 ## Sommaire
 deploiement en local
