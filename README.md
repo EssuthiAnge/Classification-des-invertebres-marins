@@ -30,6 +30,9 @@ Dans ce projet de classification des invertébrés marins, ma contribution a por
 
 Cette contribution a permis d’améliorer la stabilité, la fiabilité et la qualité globale de l’application.
 
+## Lien original du dépôt:
+🔗 https://github.com/NFChristianJ/Classification-des-invertebres-marins
+
 
 ## Sommaire
 deploiement en local
